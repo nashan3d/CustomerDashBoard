@@ -49,8 +49,8 @@
 
                 }); 
 
-                document.getElementById("custForm").style.display = "block";      
-                document.getElementById("dlForm").style.display = "inline";
+                document.getElementById("dvCollapse").style.display = "block";      
+                //document.getElementById("dlForm").style.display = "inline";
         }   
 
         
